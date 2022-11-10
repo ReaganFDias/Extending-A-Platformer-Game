@@ -1,0 +1,7 @@
+﻿  player.c
+  LINK : 0 new modules and 1 (out of 57) modules have changed since prior linking
+  Starting pass 2
+       player.obj
+       MSVCRTD.lib(loadcfg.obj)
+  Finished pass 2
+  SpringProject.vcxproj -> C:\Users\Francisco Dias\source\repos\cs1pr-portfolio\project\visual-studio\SpringProjectx\x64\Debug\SpringProject.exe
